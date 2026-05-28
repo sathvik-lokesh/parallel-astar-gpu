@@ -1,0 +1,13 @@
+# CPU / local requirements (WSL)
+numpy>=1.24
+matplotlib>=3.7
+pandas>=2.0
+
+# GPU requirements (Google Colab only — pre-installed on Colab)
+# numba          # CUDA kernels via Numba
+# pycuda         # Alternative: PyCUDA
+# cupy           # NumPy-like GPU arrays
+
+# Fast Downward is used via subprocess — install separately:
+# https://github.com/aibasel/downward
+# Already available at: /home/sathv/fast_downward/
