@@ -1,0 +1,122 @@
+[
+  {
+    "solver": "CPU A*",
+    "domain": "grid",
+    "size": 64,
+    "found": true,
+    "path_length": 126,
+    "nodes_expanded": 2486,
+    "nodes_generated": 2681,
+    "time_mean_s": 0.006619852666669128,
+    "time_std_s": 0.0001458733127524962,
+    "time_min_s": 0.006430015999967509
+  },
+  {
+    "solver": "CPU A*",
+    "domain": "grid",
+    "size": 128,
+    "found": true,
+    "path_length": 254,
+    "nodes_expanded": 9704,
+    "nodes_generated": 10363,
+    "time_mean_s": 0.023866085999998177,
+    "time_std_s": 0.001481873989009565,
+    "time_min_s": 0.0220150669999839
+  },
+  {
+    "solver": "CPU A*",
+    "domain": "grid",
+    "size": 256,
+    "found": true,
+    "path_length": 510,
+    "nodes_expanded": 36488,
+    "nodes_generated": 39058,
+    "time_mean_s": 0.10562467500009613,
+    "time_std_s": 0.0039125178333851195,
+    "time_min_s": 0.10162836700010303
+  },
+  {
+    "solver": "CPU A*",
+    "domain": "grid",
+    "size": 512,
+    "found": true,
+    "path_length": 1022,
+    "nodes_expanded": 163665,
+    "nodes_generated": 174340,
+    "time_mean_s": 0.5342714720000004,
+    "time_std_s": 0.01044898190901176,
+    "time_min_s": 0.5197863660000621
+  },
+  {
+    "solver": "CPU A*",
+    "domain": "grid",
+    "size": 1024,
+    "found": true,
+    "path_length": 2046,
+    "nodes_expanded": 634416,
+    "nodes_generated": 675086,
+    "time_mean_s": 2.26152679333336,
+    "time_std_s": 0.029020757025844203,
+    "time_min_s": 2.2367884300001606
+  },
+  {
+    "solver": "Fast Downward",
+    "domain": "blocksworld",
+    "size": 4,
+    "found": true,
+    "plan_length": 6,
+    "nodes_expanded": -1,
+    "nodes_generated": -1,
+    "time_mean_s": 0.2510114026667149,
+    "time_std_s": 0.05067260411244001,
+    "time_min_s": 0.20733494099999916
+  },
+  {
+    "solver": "Fast Downward",
+    "domain": "blocksworld",
+    "size": 6,
+    "found": true,
+    "plan_length": 10,
+    "nodes_expanded": -1,
+    "nodes_generated": -1,
+    "time_mean_s": 0.21830853066664227,
+    "time_std_s": 0.004756849236072234,
+    "time_min_s": 0.2130686999998943
+  },
+  {
+    "solver": "Fast Downward",
+    "domain": "blocksworld",
+    "size": 8,
+    "found": true,
+    "plan_length": 8,
+    "nodes_expanded": -1,
+    "nodes_generated": -1,
+    "time_mean_s": 0.22392099166669746,
+    "time_std_s": 0.01798552037791022,
+    "time_min_s": 0.2094158080001307
+  },
+  {
+    "solver": "Fast Downward",
+    "domain": "blocksworld",
+    "size": 10,
+    "found": true,
+    "plan_length": 20,
+    "nodes_expanded": -1,
+    "nodes_generated": -1,
+    "time_mean_s": 0.25076230833330254,
+    "time_std_s": 0.009845949492607316,
+    "time_min_s": 0.24373700000001008
+  },
+  {
+    "solver": "Fast Downward",
+    "domain": "blocksworld",
+    "size": 12,
+    "found": true,
+    "plan_length": 24,
+    "nodes_expanded": -1,
+    "nodes_generated": -1,
+    "time_mean_s": 0.25411161366673696,
+    "time_std_s": 0.0034670232416621656,
+    "time_min_s": 0.25160275799999
+  }
+]
