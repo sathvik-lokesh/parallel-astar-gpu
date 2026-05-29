@@ -55,6 +55,8 @@ Loop:                    Loop:
 | 2048×2048 | 0.6991 | 5.6747 | 5.3462 | **1.06×** | 4,098 | 2,884,399 |
 | 4096×4096 | 3.5376 | 21.1108 | 10.8887 | **1.94×** | 8,196 | 11,542,635 |
 
+![GPU Benchmark](benchmarks/results/gpu_benchmark_t4.png)
+
 ### Analysis
 
 Three clear regimes emerge:

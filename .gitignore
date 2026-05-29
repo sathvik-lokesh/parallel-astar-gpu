@@ -4,5 +4,6 @@ __pycache__/
 *.pyd
 *.Zone.Identifier
 .ipynb_checkpoints/
-*.csv
-*.json
+# colab_astar.py output files (generated on Colab, not committed)
+colab_results_v2.csv
+speedup_results_v2.png

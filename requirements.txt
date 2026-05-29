@@ -2,6 +2,7 @@
 numpy>=1.24
 matplotlib>=3.7
 pandas>=2.0
+scipy>=1.10
 
 # GPU requirements (Google Colab only — pre-installed on Colab)
 # numba          # CUDA kernels via Numba
