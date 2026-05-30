@@ -1,7 +1,6 @@
 # Parallel A* on GPU
 
-> **CUDA-accelerated pathfinding on 2D grids — CPU vs GPU benchmark**  
-> Part of a portfolio targeting AI / Autonomous Driving roles (Nvidia, Google, Bosch AI)
+> **CUDA-accelerated pathfinding on 2D grids — CPU vs GPU benchmark**
 
 ## Key Result
 
@@ -167,6 +166,4 @@ targeting GPU-accelerated symbolic planning as a thesis direction.
 
 ## Author
 
-**Sathvik** — Masters in IT, University of Stuttgart  
-Working Student @ Mercedes-Benz (DevOps & Test Automation)  
-Targeting AI / Autonomous Driving roles (Nvidia, Google, Bosch AI, Mobileye)
+**Sathvik** — Masters in IT, University of Stuttgart
